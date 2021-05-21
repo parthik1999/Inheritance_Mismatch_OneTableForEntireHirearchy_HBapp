@@ -1,0 +1,1 @@
+# Inheritance_Mismatch_OneTableForEntireHirearchy_HBapp
